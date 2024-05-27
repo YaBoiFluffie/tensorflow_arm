@@ -1,3 +1,4 @@
+# wget https://raw.githubusercontent.com/YaBoiFluffie/tensorflow_arm/main/setup.sh && chmod 755 setup.sh && sudo bash setup.sh -y
 # TensorFlow Lite
 sudo apt-get install cmake curl
 wget -O tensorflow.zip https://github.com/tensorflow/tensorflow/archive/v2.6.0.zip
